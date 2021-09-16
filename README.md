@@ -1,5 +1,13 @@
 # Platformer
-This project is a sample project. This project can be used by any game developer (beginner, intermediate or advanced) and can be edited it any way! The source code for this project is on Github, this itch.io page is just a live demo so people can see what they're downloading. The project currently contains:
+This project is a sample project. This project can be used by any game developer (beginner, intermediate or advanced) and can be edited it any way! The source code for this project is on Github, this itch.io page is just a live demo so people can see what they're downloading.
+
+Check out the live demo here:
+
+<code>https://wizardevs.itch.io/shape-platformer</code>
+
+
+
+The project currently contains:
 
 - Portals
 
